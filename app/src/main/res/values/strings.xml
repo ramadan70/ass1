@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="login">LOGIN</string>
+    <string name="pass_word">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="total_workout_time_0_mins">Total Workout Time: 0 mins</string>
+    <string name="clear">Clear</string>
+    <string name="back">Back</string>
+    <string name="total_workouts_completed_0">Total Workouts Completed: 0</string>
+    <string name="selected_day">Selected Day:</string>
+    <string name="by_ramadan_abo_syam">by (Ramadan Abo Syam)</string>
+    <string name="thank_you">Thank You !!</string>
+    <string name="select_workout_type">Select Workout Type</string>
+    <string name="select_day">Select Day</string>
+    <string name="select_day_of_the_week">Select Day of the Week</string>
+    <string name="enter_duration_in_minutes">Enter Duration (in minutes)</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="choose_difficulty">Choose Difficulty</string>
+    <string name="start_challenge">Start Challenge</string>
+    <string name="calorie_calculation">Calorie Calculation</string>
+    <string name="save_workout">Save Workout</string>
+    <string name="calories_burned_0">Calories Burned: 0</string>
+</resources>
